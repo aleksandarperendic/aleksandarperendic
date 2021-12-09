@@ -21,9 +21,9 @@
 | Database systems                  |   `X`   |          |   `10`   |
 | Web development                   |   `X`   |          |   `10`   |
 | Mathematics 1000                  |   `X`   |          |   `10`   |
-| Algorithms and data structure     |         |     X    |    10    |
-| System development                |         |     X    |    10    |
-| Mathematics 2000 with statistics  |         |     X    |    5+5   |
+| Algorithms and data structure     |   `X`   |          |   `10`   |
+| System development                |   `X`   |          |   `10`   |
+| Mathematics 2000 with statistics  |   `X`   |          |   `5+5`  |
 
 
 
