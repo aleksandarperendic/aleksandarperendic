@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning **Algorithms and data structure**, **System development** and **Mathematics 2000 with statistics**
+- 🌱 I’m currently learning **Software Testing**, **Networking and cloud computing**, **Operating Systems** and **Physics and Chemistry**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleksandarperendic/ "LinkedIn - Aleksandar Perendic "), [Email](mailto:sasaperendic@live.com?subject=[GitHub]%20Contact%20form), [Instagram](https://www.instagram.com/aleksanderp7 "Instagram - Aleksandar Perendic ")
 - ⚡ Fun fact: I work part-time as a nurse at Oslo municipality ⚕️
 -  🇬🇧 🇳🇴 🇩🇪 🇭🇷
