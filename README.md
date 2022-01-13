@@ -29,7 +29,7 @@
 | Networking and Cloud Computing    |         |     X    |   `10`   |
 | Software Testing                  |         |     X    |   `10`   |
 
-
+- 🔭 Future: I would like to enroll in a Master in Data Science at the University of Oslo
 
 <!-- 
 - 🔭 I’m currently working on ...
