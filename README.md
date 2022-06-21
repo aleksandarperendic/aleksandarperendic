@@ -37,8 +37,8 @@
 | Algorithms and Data Structures    |   `X`   |          |   `10`   |
 | System Development                |   `X`   |          |   `10`   |
 | Mathematics 2000 with Statistics  |   `X`   |          |   `5+5`  |
-| Physics and Chemistry             |         |     X    |   `10`   |
-| Operating Systems                 |         |     X    |   `10`   |
+| Physics and Chemistry             |   `X`   |          |   `10`   |
+| Operating Systems                 |   `X`   |          |   `10`   |
 | Networking and Cloud Computing    |   `X`   |          |   `10`   |
 | Software Testing                  |   `X`   |          |   `10`   |
 
