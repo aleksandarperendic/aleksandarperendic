@@ -55,6 +55,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev)
 [![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://swcarpentry.github.io/shell-novice/)
+[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org)
 
 ## 💻 Workstation
 [![Macbook Pro](https://img.shields.io/badge/MacBook_Pro_2021-666669?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-pro-14-and-16/)
