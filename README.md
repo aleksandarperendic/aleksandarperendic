@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning **Software Testing**, **Networking and Cloud Computing**, **Operating Systems** and **Physics and Chemistry**
+- 🌱 I’m currently learning **Computer Security**, **Web Application**, **Operating Systems** and **Introduction to Artificial Intelligence**
 
 - 🔭 Future: I would like to enroll in a Master in Data Science at the University of Oslo
 -  🇬🇧 🇳🇴 🇩🇪 🇭🇷
@@ -26,21 +26,24 @@
 -  City: Oslo, Norway
 
 **Programme Structure:**
-| Subject                           | Passed  | Learning | ECTS     |
-|:----------------------------------|:-------:|:--------:|:--------:|
-| Java Programming                  |   `X`   |          |   `10`   |
-| Web Design                        |   `X`   |          |   `10`   |
-| Discrete Mathematics              |   `X`   |          |   `10`   |
-| Database Systems                  |   `X`   |          |   `10`   |
-| Web Development                   |   `X`   |          |   `10`   |
-| Mathematics 1000                  |   `X`   |          |   `10`   |
-| Algorithms and Data Structures    |   `X`   |          |   `10`   |
-| System Development                |   `X`   |          |   `10`   |
-| Mathematics 2000 with Statistics  |   `X`   |          |   `5+5`  |
-| Physics and Chemistry             |   `X`   |          |   `10`   |
-| Operating Systems                 |   `X`   |          |   `10`   |
-| Networking and Cloud Computing    |   `X`   |          |   `10`   |
-| Software Testing                  |   `X`   |          |   `10`   |
+| Subject                                 | Passed  | Learning | ECTS     |
+|:----------------------------------------|:-------:|:--------:|:--------:|
+| Java Programming                        |   `X`   |          |   `10`   |
+| Web Design                              |   `X`   |          |   `10`   |
+| Discrete Mathematics                    |   `X`   |          |   `10`   |
+| Database Systems                        |   `X`   |          |   `10`   |
+| Web Development                         |   `X`   |          |   `10`   |
+| Mathematics 1000                        |   `X`   |          |   `10`   |
+| Algorithms and Data Structures          |   `X`   |          |   `10`   |
+| System Development                      |   `X`   |          |   `10`   |
+| Mathematics 2000 with Statistics        |   `X`   |          |   `5+5`  |
+| Physics and Chemistry                   |   `X`   |          |   `10`   |
+| Operating Systems                       |   `X`   |          |   `10`   |
+| Networking and Cloud Computing          |   `X`   |          |   `10`   |
+| Software Testing                        |   `X`   |          |   `10`   |
+| Computer Security                       |         |     X    |   `10`   |
+| Web Application                         |         |     X    |   `10`   |
+| Introduction to Artificial Intelligence |         |     X    |   `10`   |
 
 ## 🛠 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com/en/)
