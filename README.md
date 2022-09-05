@@ -58,6 +58,9 @@
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org)
 [![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=95003656689&campaign=9124878870&creative=542638212689&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51242194730&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjwvNaYBhA3EiwACgndgsfpDL3WissQIJXwXqc52R53ftVRpO9JR4zX1JakrC1KrRwliVJprRoCexsQAvD_BwE&gclsrc=aw.ds)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)
+[![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com)
 
 ## 💻 Workstation
 [![Macbook Pro](https://img.shields.io/badge/MacBook_Pro_2021-666669?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-pro-14-and-16/)
