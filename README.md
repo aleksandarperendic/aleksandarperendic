@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleksanderp7)
 
 ## 👨‍💻 About my work
--  I’m currently employed as a Computer Engineer at [Ruter AS](https://www.ruter.no/ "Ruter"). Ruter is the public transport authority for Oslo and Viken counties in Norway. 
+-  I’m currently employed as a Cloud Operations Engineer at [Ruter AS](https://www.ruter.no/ "Ruter"). Ruter is the public transport authority for Oslo and Viken counties in Norway. 
 -  The operations center monitors the ticket and real-time system in these areas. This includes monitoring and mishandling of ticket systems, real-time signs, databases, vehicles, apps, networks, Ruter mobileapp, network equipment etc.
 -  Some of the work tasks:
     -  Automation of manual tasks
@@ -41,9 +41,9 @@
 | Operating Systems                       |   `X`   |          |   `10`   |
 | Networking and Cloud Computing          |   `X`   |          |   `10`   |
 | Software Testing                        |   `X`   |          |   `10`   |
-| Computer Security                       |         |     X    |   `10`   |
-| Web Application                         |         |     X    |   `10`   |
-| Introduction to Artificial Intelligence |         |     X    |   `10`   |
+| Computer Security                       |   `X`   |          |   `10`   |
+| Web Application                         |   `X`   |          |   `10`   |
+| Introduction to Artificial Intelligence |   `X`   |          |   `10`   |
 
 ## 🛠 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com/en/)
