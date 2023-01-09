@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning **Computer Security**, **Web Application**, **Operating Systems** and **Introduction to Artificial Intelligence**
+- 🌱 I’m currently writing and submitting my bachelor's thesis
 
 - 🔭 Future: I would like to enroll in a Master in Data Science at the University of Oslo
 -  🇬🇧 🇳🇴 🇩🇪 🇭🇷
