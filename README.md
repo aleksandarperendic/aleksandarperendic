@@ -1,7 +1,5 @@
 # Hi there 👋
 
-- 🌱 I’m currently writing and submitting my bachelor's thesis
-
 -  🇬🇧 🇳🇴 🇩🇪 🇭🇷
 
 ## 📫 How to reach me
