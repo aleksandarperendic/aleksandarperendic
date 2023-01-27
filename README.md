@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently writing and submitting my bachelor's thesis
 
-- 🔭 Future: I would like to enroll in a Master in Data Science at the University of Oslo
 -  🇬🇧 🇳🇴 🇩🇪 🇭🇷
 
 ## 📫 How to reach me
