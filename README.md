@@ -42,6 +42,9 @@
 | Web Application                         |   `X`   |          |   `10`   |
 | Introduction to Artificial Intelligence |   `X`   |          |   `10`   |
 
+## 📡 My wishes
+[![Boarding Pass to Mars](https://github.com/aleksandarperendic/aleksandarperendic/blob/main/BoardingPass_MyNameOnFutureMission.png)](https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=250497149664)
+
 ## 🛠 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com/en/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
