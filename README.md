@@ -18,6 +18,23 @@
     -  Cloud and Infrastructure: work with Docker for containerization and Kubernetes for efficient application deployment. Additionally, I have experience working with cloud platforms like Azure for hosting and scaling applications.
 
 ## 🎓 About my studies
+-  Degree: Master in Informatics: Information Security / Universitetet i Oslo
+-  Subject: Secure Systems Development
+-  Duration: 2 years, 120 ECTS
+-  Language of instruction: English / Norwegian
+-  City: Oslo, Norway
+
+**Programme Structure:**
+| Subject                                                    | Passed  | Learning | ECTS     |
+|:-----------------------------------------------------------|:-------:|:--------:|:--------:|
+| Ethical Hacking                                            |         |   `X`    |   `10`   |
+| Privacy by Design                                          |         |   `X`    |   `10`   |
+| Security in Operating Systems and Software                 |         |   `X`    |   `10`   |
+| Network and Communications Security                        |         |          |   `10`   |
+| Cyber Operations                                           |         |          |   `10`   |
+| Smart processes and agile methods in software engineering  |         |          |   `10`   |
+| Master's thesis                                            |         |          |   `60`   |
+
 -  Degree: Bachelor in Computer Engineering / OsloMet - Storbyuniversitet
 -  Duration: 3 years, 180 ECTS
 -  Language of instruction: Norwegian
