@@ -18,24 +18,24 @@
     -  Cloud and Infrastructure: work with Docker for containerization and Kubernetes for efficient application deployment. Additionally, I have experience working with cloud platforms like Azure for hosting and scaling applications.
 
 ## 🎓 About my studies
--  Degree: Master in Informatics: Information Security / Universitetet i Oslo
--  Subject: Secure Systems Development
+### Master in Informatics: Information Security / Universitetet i Oslo
 -  Duration: 2 years, 120 ECTS
 -  Language of instruction: English / Norwegian
 -  City: Oslo, Norway
+-  Specializationization: Secure Systems Development
 
 **Programme Structure:**
 | Subject                                                    | Passed  | Learning | ECTS     |
 |:-----------------------------------------------------------|:-------:|:--------:|:--------:|
-| Ethical Hacking                                            |         |   `X`    |   `10`   |
-| Privacy by Design                                          |         |   `X`    |   `10`   |
-| Security in Operating Systems and Software                 |         |   `X`    |   `10`   |
-| Network and Communications Security                        |         |          |   `10`   |
+| Ethical Hacking                                            |   `X`   |          |   `10`   |
+| Privacy by Design                                          |   `X`   |          |   `10`   |
+| Security in Operating Systems and Software                 |   `X`   |          |   `10`   |
+| IT and Management                                          |         |          |   `10`   |
 | Cyber Operations                                           |         |          |   `10`   |
 | Smart processes and agile methods in software engineering  |         |          |   `10`   |
 | Master's thesis                                            |         |          |   `60`   |
 
--  Degree: Bachelor in Computer Engineering / OsloMet - Storbyuniversitet
+### Bachelor in Computer Engineering / OsloMet - Storbyuniversitet
 -  Duration: 3 years, 180 ECTS
 -  Language of instruction: Norwegian
 -  City: Oslo, Norway
@@ -59,6 +59,9 @@
 | Computer Security                       |   `X`   |          |   `10`   |
 | Web Application                         |   `X`   |          |   `10`   |
 | Introduction to Artificial Intelligence |   `X`   |          |   `10`   |
+| Bachelor Thesis (for Telia Company)     |   `X`   |          |   `20`   |
+
+
 
 ## 🛠 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com/en/)
