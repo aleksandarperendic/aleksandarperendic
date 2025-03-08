@@ -32,7 +32,7 @@
 | Security in Operating Systems and Software                 |   `X`   |          |   `10`   |
 | IT and Management                                          |   `X`   |          |   `10`   |
 | Cyber Operations                                           |   `X`   |          |   `10`   |
-| Smart processes and agile methods in software engineering  |         |   `X`    |   `10`   |
+| Smart processes and agile methods in software engineering  |   `X`   |          |   `10`   |
 | Master's thesis                                            |         |   `X`    |   `60`   |
 
 ### Bachelor in Computer Engineering / OsloMet - Storbyuniversitet
