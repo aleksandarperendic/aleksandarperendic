@@ -81,7 +81,7 @@
 [![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com)
 
 ## 💻 Workstation
-[![Macbook Pro](https://img.shields.io/badge/MacBook_Pro_2021-666669?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-pro-14-and-16/)
+[![Macbook Pro](https://img.shields.io/badge/MacBook_Pro_2025-666669?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-pro-14-and-16/)
 [![macOS](https://img.shields.io/badge/mac%20os-666669?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/monterey/)
 [![Ubuntu Server](https://img.shields.io/badge/Server-ARM-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/download/server)
 
