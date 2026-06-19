@@ -9,13 +9,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aleksanderp7)
 
 ## 👨‍💻 About my work
-- Currently, I am working as a System Developer at [Avinor](https://www.avinor.no/ "Avinor") within the "Lufthavn Utvikling" team. Avinor is a organization responsible for managing airports in Norway.
-- In my role, I actively contribute to the development and maintenance of various airport-related systems.
--  My work primarily revolves around the following areas:
-    -  Development and Quality Assurance: responsible for coding, performing quality assurance checks, and conducting tests to ensure the reliability and performance of the systems. I utilize technologies like Java, Spring Boot, Apache Camel, JPA/Hibernate for backend development. Additionally, I work with JavaScript, React, Redux, Node.js for frontend development.
-    -  Database and Integration: work with databases such as Oracle DB and MS-SQL, ensuring efficient data management and integration.
-    -  Version Control and Automation: utilize Git for version control and collaborate effectively with my team. Moreover, I leverage Ansible for automating deployment and configuration management tasks.
-    -  Cloud and Infrastructure: work with Docker for containerization and Kubernetes for efficient application deployment. Additionally, I have experience working with cloud platforms like Azure for hosting and scaling applications.
+- System Developer at KS Digital, working on solutions used across municipalities in Norway.
+- Daily work focused on backend development with Kotlin and Spring, building services that are stable, maintainable and scalable across different municipalities.
+- Involves development, testing and quality assurance, along with integration work and data handling in MS SQL.
 
 ## 🎓 About my studies
 ### Master in Informatics: Information Security / Universitetet i Oslo
